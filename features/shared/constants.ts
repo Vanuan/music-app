@@ -1,0 +1,1 @@
+export const TIMELINE_DURATION_SECONDS = 4;
